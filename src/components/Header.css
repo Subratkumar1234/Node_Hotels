@@ -1,0 +1,30 @@
+.header {
+    background: #cbc2c2;
+    color: #321b1b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    /* display: flex;
+    justify-content: space-between; */
+    gap: 1rem;
+  }
+  .header-ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .header nav ul li a {
+    color:#321b1b;
+    text-shadow: 1px 1px #605d5d;
+    font-size: larger;
+    text-decoration: none;
+  }
+  

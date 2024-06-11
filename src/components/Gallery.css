@@ -1,0 +1,21 @@
+.gallery {
+    padding: 2rem;
+  }
+  
+  .gallery h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .gallery-images {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .gallery-images img {
+    width: 30%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
